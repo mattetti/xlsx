@@ -61,6 +61,7 @@ const (
 	builtInNumFmtIndex_GENERAL = int(0)
 	builtInNumFmtIndex_INT     = int(1)
 	builtInNumFmtIndex_FLOAT   = int(2)
+	builtInNumFmtIndex_PERCENT = int(9)
 	builtInNumFmtIndex_DATE    = int(14)
 	builtInNumFmtIndex_STRING  = int(49)
 )
